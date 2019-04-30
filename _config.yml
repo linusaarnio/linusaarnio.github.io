@@ -21,7 +21,7 @@ baseurl: /
 url: https://linusaarnio.com
 twitter_username: 
 github_username: linusaarnio
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
